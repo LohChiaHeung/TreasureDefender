@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/War Drum Sound Effect (2).mp3-c7bc8e1d1bfd7edf518dff07c05a258d.mp3str"
+
+[deps]
+
+source_file="res://War Drum Sound Effect (2).mp3"
+dest_files=[ "res://.import/War Drum Sound Effect (2).mp3-c7bc8e1d1bfd7edf518dff07c05a258d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

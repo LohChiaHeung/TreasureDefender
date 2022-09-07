@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/The Land of Her Serenity.mp3-0c43ce09ccaeea70ea6ae91b450897a4.mp3str"
+
+[deps]
+
+source_file="res://The Land of Her Serenity.mp3"
+dest_files=[ "res://.import/The Land of Her Serenity.mp3-0c43ce09ccaeea70ea6ae91b450897a4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

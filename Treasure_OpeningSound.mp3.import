@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Treasure_OpeningSound.mp3-9cf3243f6daa37d79f7510868693194d.mp3str"
+
+[deps]
+
+source_file="res://Treasure_OpeningSound.mp3"
+dest_files=[ "res://.import/Treasure_OpeningSound.mp3-9cf3243f6daa37d79f7510868693194d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Victory Sound Effect - No Copyright (HD).mp3-edd00f7b163d993fb348df3786565c41.mp3str"
+
+[deps]
+
+source_file="res://Victory Sound Effect - No Copyright (HD).mp3"
+dest_files=[ "res://.import/Victory Sound Effect - No Copyright (HD).mp3-edd00f7b163d993fb348df3786565c41.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
